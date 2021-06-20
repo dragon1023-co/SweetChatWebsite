@@ -1,2 +1,2 @@
 # SweetChatWebsite
-This is a chat website for practice only, Made in html, java, css, and javascript.
+This is a chat website for practice only, Made in html, php (for now), css, and javascript.
